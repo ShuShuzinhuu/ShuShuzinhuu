@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ShuKurenai's</h1>
-<h3 align="center">A Python beginner</h3>
+<h3 align="center">Developer Python</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shushuzinhu&label=Profile%20views&color=fe58a8&style=flat" alt="shushuzinhu" /> </p>
 
