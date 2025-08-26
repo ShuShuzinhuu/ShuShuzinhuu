@@ -2,9 +2,9 @@
 <h3 align="center">Python Developer | Lifelong Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shushuzinhu&label=Profile%20views&color=fe58a8&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shushuzinhu?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/shushuzinhu?style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=shushuzinhuu&label=Profile%20views&color=fe58a8&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shushuzinhuu?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/shushuzinhuu?style=social" alt="GitHub Stars" />
 </p>
 
 ---
@@ -41,21 +41,6 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
-
----
-
-## 🏆 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shushuzinhu&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shushuzinhu&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🎖 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shushuzinhu&theme=tokyonight&no-frame=true" alt="GitHub Trophies"/>
 </p>
 
 ---
