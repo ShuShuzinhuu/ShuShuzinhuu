@@ -10,7 +10,7 @@
 ---
 
 ## 🔭 Currently Working On
-- [network-manager-rtl8xxxcu](https://github.com/ShuShuzinhuu/network-manager-rtl8xxxcu) – My ongoing Python project
+- Nothing
 
 ---
 
