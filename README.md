@@ -24,14 +24,6 @@
 
 ---
 
-## 📫 How to Reach Me
-<p align="center">
-  <a href="https://discord.com/users/530917459125993482"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" width="40" height="40"/></a>
-  <a href="https://instagram.com/_dsouzza"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40"/></a>
-</p>
-
----
-
 ## 🛠 Languages & Tools
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
