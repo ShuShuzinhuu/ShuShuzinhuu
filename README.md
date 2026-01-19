@@ -1,43 +1,35 @@
-<h1 align="center">Hi 👋, I'm Shu </h1>
-<h3 align="center">Python Developer | Lifelong Learner</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FE58A8&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B,+I'm+Shu;Python+Developer;Lifelong+Learner;Automating+the+boring+stuff" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shushuzinhuu&label=Profile%20views&color=fe58a8&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shushuzinhuu?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/shushuzinhuu?style=social" alt="GitHub Stars" />
-</p>
-
----
-
-## 🔭 Currently Working On
-- Nothing
+<div align="center">
+  <a href="https://github.com/shushuzinhuu">
+    <img src="https://komarev.com/ghpvc/?username=shushuzinhuu&label=Profile%20views&color=fe58a8&style=flat" alt="Profile Views" />
+  </a>
+</div>
 
 ---
 
-## 🌱 Currently Learning
-- Python, Advanced Git, Linux automation  
+### 👨‍💻 About Me
+I'm a Python Developer passionate about turning coffee into code. I love automation, Linux, and discovering new ways to optimize tasks.
+
+- 🔭 **Currently working on:** Personal projects and automation.
+- 🌱 **Learning:** Advanced Python, Git Flow & Linux.
+- ⚡ **Fun Fact:** "I play a lot :3" and I love solving logical problems.
 
 ---
 
-## 💬 Ask Me About
-- Life, Python, Development, Fun projects  
+### 🛠 Tech Stack
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,git,github,mysql,sqlite,firebase,gcp,linux,bash&theme=dark" />
+  </a>
+</div>
 
 ---
 
-## 🛠 Languages & Tools
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-</p>
-
----
-
-## ⚡ Fun Fact
-- I play a lot :3  
-- Love automation and exploring new Python tricks  
-- Always learning new tech while having fun
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shushuzinhuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shushuzinhuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph"  />
+</div>
